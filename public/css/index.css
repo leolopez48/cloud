@@ -1,0 +1,62 @@
+.body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bg-black {
+    background-color: #2E2E2E;
+}
+
+.reset {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-blue {
+    background-color: #5600E8;
+}
+
+.txt-white {
+    color: #ffffff;
+}
+
+.txt-black {
+    color: #000000;
+}
+
+.txt-blue {
+    color: #5600E8;
+}
+
+.card-body:hover {
+    background-color: #1B1B1B;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 0px 0px 0px 2px grey;
+    text-decoration: none;
+}
+
+.decoration-none:hover {
+    color: grey;
+    text-decoration: none;
+}
+
+.decoration-none:active {
+    color: grey;
+    text-decoration: none;
+}
+
+.decoration-none {
+    color: white;
+    text-decoration: none;
+}
+
+.title {
+    font-size: 30px;
+}
+
+a:link,
+a:visited,
+a:hover {
+    cursor: pointer;
+    text-decoration: none;
+}
